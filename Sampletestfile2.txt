@@ -1,3 +1,4 @@
 GIT REVERTING COMMIT from Local machine
 
 
+This is Stash lecture, change in file 2
